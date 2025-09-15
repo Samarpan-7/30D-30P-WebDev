@@ -15,13 +15,6 @@ This project demonstrates:
 
 ---
 
-## 🚀 Demo
-👉 [Live Demo](#) *(add your deployed link here, e.g. GitHub Pages or Vercel)*  
-
-![Screenshot](screenshot2.png)
-
----
-
 ## 📂 Folder Structure
 ProjectTest/
 │── index.html # Main structure
@@ -92,4 +85,4 @@ Then open 👉 http://localhost:5500 in your browser.
 
 👨‍💻 Author
 
-Developed with ❤️ by Your Name
+Developed with ❤️ by Samarpan!
