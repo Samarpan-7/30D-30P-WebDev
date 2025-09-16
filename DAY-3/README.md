@@ -54,5 +54,3 @@ Save spoken text as audio file (MP3/WAV)
 📜 License
 This project is licensed under the MIT License – free to use and modify.
 
-yaml
-Copy code
