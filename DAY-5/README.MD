@@ -5,11 +5,11 @@ This project allows you to experiment with color combinations, preview them in r
 
 🚀 Features
 
-✅ Real-time color preview based on slider inputs
+✅ Real-Time Color Preview based on slider inputs
 ✅ Adjustable Hue (0–360), Saturation (0–100%), and Lightness (0–100%)
-✅ Displays the current HSL values next to each slider
-✅ Copy the generated HSL color code to clipboard with one click
-✅ Smooth UI with gradient background and modern styling
+✅ Displays the current HSL Values next to each slider
+✅ Copy the generated HSL Color Code to clipboard with one click
+✅ Smooth UI with Gradient Background and modern styling
 
 🛠️ Tech Stack
 
@@ -17,18 +17,18 @@ HTML5 – Structure
 
 CSS3 – Styling & Layout
 
-JavaScript (ES6) – Functionality & Clipboard handling
+JavaScript (ES6) – Functionality & Clipboard Handling
 
 📂 Project Structure
 HSL-Color-Generator/
-│── index.html      # Main HTML file
+│── index.html      # Main HTML File
 │── style.css       # Styling
-│── script.js       # JavaScript functionality
+│── script.js       # JavaScript Functionality
 │── README.md       # Project Documentation
 
-🎮 How to Use
+🎮 How To Use
 
-Clone or download the repository.
+Clone or download the repository:
 
 git clone https://github.com/your-username/HSL-Color-Generator.git
 cd HSL-Color-Generator
@@ -38,10 +38,9 @@ Open index.html in any modern browser.
 
 Move the sliders for Hue, Saturation, and Lightness.
 
-The color preview box will instantly update.
+The Color Preview box will instantly update.
 
 Click the Copy Color button to copy the HSL code.
-
 
 
 📋 Example Output
@@ -60,13 +59,13 @@ hsl(200, 70%, 50%)
 
 🔮 Future Improvements
 
-Add Hex & RGB conversion options
+Add Hex & RGB Conversion Options
 
-Live text input fields for precise values
+Live Text Input Fields for Precise Values
 
-Save favorite colors in a palette
+Save Favorite Colors in a Palette
 
-Dark mode toggle
+Dark Mode Toggle
 
 🤝 Contributing
 
